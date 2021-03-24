@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul - aka [rahulraina711][website] 👋
 
-[![Website](https://img.shields.io/website?label=LinkedIN&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulraina711/)
+[![Website]<p align="left"> <a href="https://www.instagram.com/rahulraina711" target="blank"><img src="https://img.shields.io/instagram/follow/rahulraina711?logo=instagram&style=for-the-badge" alt="rahulraina711" /></a> </p>
 
 
 ## I'm a Developer, 3D Artist, Gamer, and Part Designer!!
