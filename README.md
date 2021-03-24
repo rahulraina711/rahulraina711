@@ -55,12 +55,9 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulraina711&show_icons=true&count_private=true&theme=radical)  
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rahulraina711&show_icons=true&hide_border=true" />
-
-</details>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulraina711&theme=highcontrast)
 
 [website]: https://www.linkedin.com/in/rahulraina711/
 [todo]: https://tasker-to-do.netlify.app
