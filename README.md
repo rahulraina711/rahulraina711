@@ -20,6 +20,7 @@
 [<img align="left" alt="rahulraina711 | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
