@@ -38,8 +38,9 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="Heroku" width="26px" src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg" />][linkedin]
+[<img align="left" alt="Heroku" width="78px" src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg" />][linkedin]
 [<img align="left" alt="netlify" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />][linkedin]
+[<img align="left" alt="vercel" width="78px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" />][linkedin]
 
 
 <br />
