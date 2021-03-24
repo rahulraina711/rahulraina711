@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rahulraina711 | LinkedIn" width="30px" src="https://www.nicepng.com/png/detail/381-3811414_linkedin-thompson-electric-company-linkedin-logo-png-black.png" />][linkedin]
+[<img align="left" alt="rahulraina711 | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 
