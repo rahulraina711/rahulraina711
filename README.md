@@ -59,6 +59,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulraina711&theme=highcontrast)
 
+---
+### 💝 Since you made it to the end, here's a qoute for you
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
+
 [website]: https://www.linkedin.com/in/rahulraina711/
 [todo]: https://tasker-to-do.netlify.app
 [instagram]: https://instagram.com/rahulraina711
