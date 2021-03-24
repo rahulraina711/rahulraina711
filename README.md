@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/RAHULRAINA711-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rahulraina711" /></a> </p>
 
 
-## I'm a Developer, 3D Artist, Gamer, and Part Designer!!
+## I'm a Developer, Gamer, 3D Artist and a Part Designer aswell!!
 
 - 🔭 I just created a ToDo App without using Redux: [Todo][todo]!
 - 🌱 I’m currently learning many things 🤣
