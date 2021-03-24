@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-chi-sand.vercel.app/api/spotify-playing" alt="rahulraina711 Spotify Playing" width="350" />](https://open.spotify.com/user/rahulraina711)
+[<img src="https://novatorem-ck11r83t6-rahulraina711.vercel.app/api/spotify-playing" alt="rahulraina711 Spotify Playing" width="350" />](https://open.spotify.com/user/rahulraina711)
 
 ### Connect with me:
 
