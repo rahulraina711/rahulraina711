@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=LinkedIN&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulraina711/)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, 3D Artist, Gamer, and Part Designer!!
 
-- 🔭 I just created a ToDo App without using Resux: [Become A VS Code SuperHero!][course]!
+- 🔭 I just created a ToDo App without using Redux: [Become A VS Code SuperHero!][todo]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -98,7 +98,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[todo]: https://tasker-to-do.netlify.app
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
