@@ -25,6 +25,8 @@
 ### Languages and Tools:
 
 <p align="left">
+<a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://www.nginx.com/wp-content/uploads/2021/03/NGINX-Instance-Manager-vertical-white-type-2.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://material-ui.com" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
