@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Gamer, 3D Artist and a Part Designer !!
 
-- 🔭 I just created a ToDo App without using Redux: [Todo][todo]!
+- 🔭 I just created a CHAT App without using React or Redux: [G Comms][todo]!
 - 🌱 I’m currently learning many things 🤣
 - 👯 I’m looking for projects or job opportunities 
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -68,7 +68,7 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
 
 [website]: https://www.linkedin.com/in/rahulraina711/
-[todo]: https://tasker-to-do.netlify.app
+[todo]: https://g-comms.herokuapp.com/
 [instagram]: https://instagram.com/rahulraina711
 [linkedin]: https://www.linkedin.com/in/rahulraina711/
 
