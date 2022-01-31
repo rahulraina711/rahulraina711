@@ -7,9 +7,9 @@
 
 - 🔭 I just created a CHAT App without using React or Redux: [G Comms][todo]!
 - 🌱 I’m currently learning many things 🤣
-- 👯 I’m looking for projects or job opportunities 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love gardening !
+- 👯 I’m looking for projects or challenges
+- 🥅 2022 Goals: Contribute more to Open Source projects and put more into my texh stack
+- ⚡ Fun fact: I love gardening , 3D modelling , WEB 3.0 , Graphic designing and sports!
 
 ### Spotify Playing 🎧
 
